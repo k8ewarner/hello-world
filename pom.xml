@@ -3,4 +3,5 @@
   <groupId>k8ewarner.myapphw</groupId>
   <artifactId>myapphw</artifactId>
   <version>1</version>
+  <packaging>jar</packaging>
  </project>
