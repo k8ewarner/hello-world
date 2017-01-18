@@ -7,11 +7,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-  
-  <dependencies>
-    My dependencies
-  </dependencies>
-  
+    
   <build>
   <plugins>
     <plugin>
